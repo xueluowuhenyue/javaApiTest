@@ -1,0 +1,47 @@
+[
+  {
+    "description": "不带参数的post请求",
+    "request": {
+      "uri": "/data",
+      "method": "post"
+    },
+    "response": {
+        "headers":{
+          "Content-Type": "text/html;charset=gbk"
+        },
+      "cookies": {
+        "login": "success"
+      },
+      "json": {
+        "code": "1",
+        "status": "success",
+        "msg": "登录成功"
+      }
+    }
+  },
+
+  {
+    "description": "带参数的post请求",
+    "request": {
+      "uri": "/add/cookie",
+      "method": "post",
+      "cookies": {
+        "login": "success"
+      },
+      "json": {
+        "name": "zhangsan",
+        "age": "18"
+      }
+    },
+    "response": {
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "json": {
+        "code": "200",
+        "status": "success",
+        "msg": "cookie添加成功"
+      }
+    }
+  }
+]

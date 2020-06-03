@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="group">
+<!--    <test name="runAll">-->
+<!--        <classes>-->
+<!--            <class name="Login"/>-->
+<!--            <class name="Pay"/>-->
+<!--            <class name="Register"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+    <test name="runPay">
+        <groups>
+            <run>
+                <include name="注册"/>
+                <include name="支付"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="controller.code.classGroups.Login"/>
+            <class name="controller.code.classGroups.Pay"/>
+            <class name="controller.code.classGroups.Register"/>
+        </classes>
+    </test>
+</suite>

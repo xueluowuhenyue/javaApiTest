@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7defb966-7a76-46f3-aae8-de9742efeaef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="qiangchengdai" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aeCa0YSCsbdFEtCkq1uVGunsT0" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myspringboot" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\myspringboot" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\MyBatisMysql\src\main\resources" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\MyBatisMysql\src\main\resources\mapper" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\src\main\java\com\source\code\HttpRequest" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SpringBootTest.MyRequestMethod" />
+      <recent name="com.source.code.CreateReport" />
+      <recent name="com.source.code.ThreadTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\myspringboot\src\main" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\myspringboot\src\main\java\SpringBootTest" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\myspringboot\src\main\resources" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai\MyBatisMysql\src\main\java\com\source\controller" />
+      <recent name="D:\IntelliJ2019\JavaScripts\qiangchengdai" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="MyBatisMysql" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SpringBootTest.Application" />
+      <module name="myspringboot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mySporingBoot.demo" />
+      <module name="sporingBootTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mySporingBoot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemo" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myspringboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SpringBootTest.MyRequestMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="SpringBootTest.SpringBootDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpPostRequest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="qiangchengdai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.source.code.HttpRequest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.source.code.HttpRequest" />
+      <option name="MAIN_CLASS_NAME" value="com.source.code.HttpRequest.HttpPostRequest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Spring Boot.SpringBootDemo" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="TestNG.HttpPostRequest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7defb966-7a76-46f3-aae8-de9742efeaef" name="Default Changelist" comment="" />
+      <created>1587086732177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587086732177</updated>
+      <workItem from="1587086739308" duration="2720000" />
+      <workItem from="1587090774635" duration="74744000" />
+      <workItem from="1587697511171" duration="11273000" />
+      <workItem from="1587713805029" duration="11645000" />
+      <workItem from="1587879389703" duration="1174000" />
+      <workItem from="1587880704287" duration="14794000" />
+      <workItem from="1587956737169" duration="16838000" />
+      <workItem from="1588035101917" duration="8391000" />
+      <workItem from="1588044586484" duration="10179000" />
+      <workItem from="1588059797800" duration="4666000" />
+      <workItem from="1588122573561" duration="6706000" />
+      <workItem from="1588136495092" duration="5820000" />
+      <workItem from="1588208884342" duration="833000" />
+      <workItem from="1588729536774" duration="996000" />
+      <workItem from="1590455976903" duration="1102000" />
+      <workItem from="1590479884581" duration="24976000" />
+      <workItem from="1590992334823" duration="10134000" />
+      <workItem from="1591061900604" duration="3493000" />
+      <workItem from="1591147856434" duration="2317000" />
+      <workItem from="1591150262193" duration="2818000" />
+      <workItem from="1591154563923" duration="226000" />
+      <workItem from="1591155600417" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

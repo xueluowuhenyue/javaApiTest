@@ -1,0 +1,14 @@
+[
+  {
+    "description": "第一个mock例子",
+    "request": {
+      "uri": "/index"
+    },
+    "response": {
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "text": "hello mock"
+    }
+  }
+]

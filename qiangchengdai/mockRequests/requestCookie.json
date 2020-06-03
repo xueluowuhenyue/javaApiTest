@@ -1,0 +1,18 @@
+[
+  {
+    "description": "带cookie的请求",
+    "request": {
+      "uri": "/cookie",
+      "method": "post",
+      "cookies": {
+        "login": "success"
+      }
+    },
+      "response":{
+        "headers": {
+          "Content-Type": "text/html;charset=gbk"
+        },
+        "text": "这个请求需要带cookie才能访问"
+      }
+  }
+]

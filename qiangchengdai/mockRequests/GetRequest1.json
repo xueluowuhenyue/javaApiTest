@@ -1,0 +1,64 @@
+[
+  {
+    "description": "不带参数的get请求",
+    "request": {
+      "uri": "/home",
+      "method": "get"
+    },
+    "response": {
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "cookies": {
+        "login": "success"
+      },
+      "text": "不带参数的get请求"
+    }
+  },
+
+  {
+    "description": "带参数的get请求",
+    "request": {
+      "uri": "/home/data",
+      "method": "get",
+      "queries": {
+        "name": "zhangsan",
+        "pwd": "123456"
+      }
+    },
+    "response": {
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "cookies": {
+        "login": "success"
+      },
+      "json": {
+        "code": "1",
+        "status": "success",
+        "msg": "登录成功"
+      }
+    }
+  },
+
+  {
+    "description": "带cookie的请求",
+    "request": {
+      "uri": "/cookie",
+      "method": "get",
+      "cookies": {
+        "login": "success"
+      }
+    },
+    "response":{
+      "headers": {
+        "Content-Type": "text/html;charset=gbk"
+      },
+      "json": {
+        "code": "1",
+        "status": "success",
+        "msg": "登录成功"
+      }
+    }
+  }
+]

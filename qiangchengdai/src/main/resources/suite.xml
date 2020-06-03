@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="test">
+    <test name="login">
+        <classes>
+            <class name="controller.code.suite.SuiteConfig"/>
+            <class name="controller.code.suite.LoginTest"/>
+            <class name="controller.code.suite.PayTest"/>
+        </classes>
+    </test>
+</suite>

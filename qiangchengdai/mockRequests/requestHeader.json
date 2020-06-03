@@ -1,0 +1,27 @@
+[
+  {
+    "description": "带请求头的请求",
+    "request": {
+      "uri": "/add/headers",
+      "method": "post",
+      "headers": {
+        "Content-Type": "application/json",
+        "User-Agent": "Apache-HttpClient/4.5.6"
+      },
+      "forms": {
+        "name": "zhangsan",
+        "password": "123456"
+      }
+    },
+    "response": {
+      "json": {
+        "code": "1",
+        "status": "success",
+        "msg": "登录成功"
+      },
+      "headers":{
+        "Content-Type": "text/html;charset=gbk"
+      }
+    }
+  }
+]

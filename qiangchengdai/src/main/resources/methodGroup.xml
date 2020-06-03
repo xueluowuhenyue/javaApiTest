@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="group">
+    <test name="runAll">     <!--运行所有的测试用例-->
+        <classes>
+            <class name="controller.code.methodGroups.Login"/>
+        </classes>
+    </test>
+
+    <test name="runSelect">   <!--运行分组二的测试用例-->
+        <groups>
+            <run>
+                <include name="分组二"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="controller.code.methodGroups.Login"/>
+        </classes>
+    </test>
+</suite>

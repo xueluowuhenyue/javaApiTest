@@ -1,0 +1,23 @@
+2020-06-02 10:00:07.722 [main] INFO  SpringBootTest.Application - Starting Application on Danny with PID 11832 (D:\IntelliJ2019\JavaScripts\qiangchengdai\myspringboot\target\classes started by Administrator in D:\IntelliJ2019\JavaScripts\qiangchengdai)
+2020-06-02 10:00:07.725 [main] INFO  SpringBootTest.Application - No active profile set, falling back to default profiles: default
+2020-06-02 10:00:09.555 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[SpringBootTest]' package. Please check your configuration.
+2020-06-02 10:00:12.517 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-06-02 10:00:12.541 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2020-06-02 10:00:12.549 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-06-02 10:00:12.987 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2020-06-02 10:00:12.987 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 5194 ms
+2020-06-02 10:00:14.157 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-06-02 10:00:14.311 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-06-02 10:00:14.591 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+2020-06-02 10:00:14.626 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-06-02 10:00:14.667 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+2020-06-02 10:00:15.004 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getGoodsUsingGET_1
+2020-06-02 10:00:15.016 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getGoodsUsingGET_2
+2020-06-02 10:00:15.020 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getGoodsUsingGET_3
+2020-06-02 10:00:15.026 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getGoodsUsingGET_4
+2020-06-02 10:00:15.028 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getGoodsUsingGET_5
+2020-06-02 10:00:15.038 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getGoodsUsingGET_6
+2020-06-02 10:00:15.043 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: getGoodsUsingGET_7
+2020-06-02 10:00:15.091 [main] INFO  s.documentation.spring.web.readers.operation.CachingOperationNameGenerator - Generating unique operation named: postCookieUsingPOST_1
+2020-06-02 10:00:15.183 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-06-02 10:00:15.187 [main] INFO  SpringBootTest.Application - Started Application in 8.83 seconds (JVM running for 10.338)
